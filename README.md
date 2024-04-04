@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Développeuse full stack
 -----------------------
 
-Je suis actuellement étudiante à ADA Tech School afin de préparer le titre de concepteur d'applications.
+Je suis actuellement étudiante à ADA Tech School afin de préparer le titre de concepteur développeur d'applications.
 
 * 🌍  I'm based in Lyon / Villeurbanne
 * ✉️  You can contact me at [mbacke.mamediarra@gmail.com](mailto:mbacke.mamediarra@gmail.com)
